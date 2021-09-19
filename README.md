@@ -1,4 +1,5 @@
 # Read Me
+[![DOI](https://zenodo.org/badge/407547763.svg)](https://zenodo.org/badge/latestdoi/407547763)
 ### Since the data used in the scripts are not allowed to use publicly, you may test out the model by using the following publicily available data which can be retrieved from the either links. 
 
 ### 1.	https://www.ibm.com/docs/en/cognos-analytics/11.1.0?topic=samples-telco-customer-churn
